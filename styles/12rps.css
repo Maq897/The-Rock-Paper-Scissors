@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color:white;
+}
+img {
+  height:100px;
+  width: 100px;
+  border-radius: 200px;
+  background-color: transparent;
+}
+.resetScoreButton,
+.Autoplaybutton {
+  padding:10px;
+  color: black;
+  border: none;
+}
+.specialbutton {
+  background-color: transparent;
+  border-radius: 200px;
+  border-color: white;
+  border-width: 4px;
+  border-style: solid;
+  height: 120px; 
+}
+.scoreChoice {
+  height:50px;
+  width: 50px;
+  border-radius: 200px;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  padding: 2px 2px;
+}
